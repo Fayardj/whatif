@@ -1,0 +1,8 @@
+header {
+  height: 4rem;
+  margin: auto 1.5rem;
+  display: flex;
+  font-size: 2rem;
+  background-color: white;
+  color: black;
+}
